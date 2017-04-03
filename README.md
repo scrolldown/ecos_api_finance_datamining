@@ -1,6 +1,6 @@
 # ecos_api_finance_datamining
 
-Finance datamining using Korea bank's ecos api
+Finance datamining using Bank of Korea's ecos api
 
 
 # 전체적인 실행 개념
