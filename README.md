@@ -2,9 +2,9 @@
 
 **This program is finance datamining program using Bank of Korea's ecos api.
 <br>First, Write statistic code of ECOS API in the 'ecos 데이터 변수.xlsx'
-Second, In the 'ecos_prog.py', Write Extract_csv function's parameter,Start date and End date,like YYYY-MM-DD.
-And, Run.
-(Optionally, You can use os library to delete files that are created during runtime.)
+<br>Second, In the 'ecos_prog.py', Write Extract_csv function's parameter,Start date and End date,like YYYY-MM-DD.
+<br>And, Run.
+<br>(Optionally, You can use os library to delete files that are created during runtime.)
 **
 
 # 전체적인 실행 개념
